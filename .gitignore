@@ -1,3 +1,5 @@
 #django pizzeria virtual environment
 dp_venv/
 
+#pycache bullshit
+__pycache__/
